@@ -245,7 +245,7 @@ Getting Support
 
 * Various Telegram groups:
 
-  * `t.me/BitSharesDEX <https://t.me/BitSharesDEX>`_
+  * `t.me/BitSharesDEX <https://t.me/BitSharesGroup>`_
 
   * `t.me/btsWalletHelp <https://t.me/btsWalletHelp>`_
 
